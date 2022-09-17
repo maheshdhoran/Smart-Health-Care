@@ -109,7 +109,7 @@ The main goal of this Project is to use ML for disease diagnosis and, thus, the 
 
 [Madhurika Belsare](https://www.linkedin.com/in/madhurika-belsare-9a144b117/)
 
-### 8. Deployment Link :
+### 8. Deployment Link -
 
 [SHC](https://smart-hcs.herokuapp.com/)
 
